@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 API_ID = "2929027"
 API_HASH = "2beecc3ee357e6e3f2b2e783d4159f9f"
 BOT_TOKEN = "1878355269:AAHK4J4OtcX9HG6NIueFX8Uf3ZPE2W8zg7I"
-API_KEY = "607cf2381e4f3debea39d432f13f55460ee50875"
+API_KEY = "95288bd7e4cd3f72fcc96184f0c1be82a1a160e9"
 
 bot = Client('gplink bot',
              api_id=API_ID,
